@@ -2,7 +2,7 @@
 
 ### Project Objectives:
 1. **P&L Reports by Fiscal Year & Months:** To analyze financial performance over time, both annually and monthly, allowing for trend analysis and identification of seasonal patterns. https://github.com/Roohitabassum/Excel-Finance-Analytics/blob/main/P%26L%20Year1.pdf
-2. 
+2. https://github.com/Roohitabassum/Excel-Finance-Analytics/blob/main/P%26L%20Month%202.pdf
    
 3. **P&L Reports by Markets:** To evaluate performance across different markets, enabling comparisons and identifying areas for improvement or investment.
 
