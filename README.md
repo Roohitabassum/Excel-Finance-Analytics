@@ -5,6 +5,7 @@
 2. https://github.com/Roohitabassum/Excel-Finance-Analytics/blob/main/P%26L%20Month%202.pdf
    
 3. **P&L Reports by Markets:** To evaluate performance across different markets, enabling comparisons and identifying areas for improvement or investment.
+4. https://github.com/Roohitabassum/Excel-Finance-Analytics/blob/main/P%26L%20Markets.pdf
 
 ### Purpose of Sales Analytics:
 - Evaluate financial performance.
