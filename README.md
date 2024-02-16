@@ -1,9 +1,10 @@
 # Excel-Finance-Analytics
 
 ### Project Objectives:
-1. **P&L Reports by Fiscal Year & Months:** To analyze financial performance over time, both annually and monthly, allowing for trend analysis and identification of seasonal patterns.
+1. **P&L Reports by Fiscal Year & Months:** To analyze financial performance over time, both annually and monthly, allowing for trend analysis and identification of seasonal patterns. https://github.com/Roohitabassum/Excel-Finance-Analytics/blob/main/P%26L%20Year1.pdf
+2. 
    
-2. **P&L Reports by Markets:** To evaluate performance across different markets, enabling comparisons and identifying areas for improvement or investment.
+3. **P&L Reports by Markets:** To evaluate performance across different markets, enabling comparisons and identifying areas for improvement or investment.
 
 ### Purpose of Sales Analytics:
 - Evaluate financial performance.
